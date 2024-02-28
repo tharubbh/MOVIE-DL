@@ -33,14 +33,14 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SACHIBOT/MOVIE-MYSTIQ&branch=main&env[SESSION_ID]&env[ALWAYS_ONLINE]&env[MAX_SIZE]&env[ONLY_GROUP]&env[ONLY_ME]&env[ALIVE]&name=movie-dl
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/tharubbh/MOVIE-DL&branch=main&env[SESSION_ID]&env[ALWAYS_ONLINE]&env[MAX_SIZE]&env[ONLY_GROUP]&env[ONLY_ME]&env[ALIVE]&name=movie-dl
   ">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://railway.app/template/cvZzpl">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQhttps://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQ&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git">
+  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/tharubbh/MOVIE-DLhttps://dashboard.heroku.com/new?button-url=https://github.com/tharubbh/MOVIE-DL&template=https://github.com/tharubbh/MOVIE-DL.git&template=https://github.com/tharubbh/MOVIE-DL.git">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" width="200" height="40" >
   </a>
 </p>
@@ -48,20 +48,20 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/SACHIBOT/MOVIE-MYSTIQ/fork">
-    <img src="https://img.shields.io/badge/FORK%20MOVIE%20MYSTIQ-yellow" alt="FORK MOVIE MYSTIQ">
+  <a href="https://github.com/tharubbh/MOVIE-DL/fork">
+    <img src="https://img.shields.io/badge/FORK%20MOVIE%20DL-yellow" alt="FORK MOVIE DL">
   </a>
 </p>
 <br>
 <h2 align="center">Movie Mystiq Bot Owners</h2>
 <br>
 <p align="center">
-  <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80 alt="Owner"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prabathLK"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80 alt="Supporter"></a>
+  <a href="https://github.com/tharubbh"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80 alt="Owner"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tharubbh"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80 alt="Supporter"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SACHIBOT">SACHIBOT</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prabathLK">PrabathLK</a>
+  <a href="https://github.com/tharubbh">tharubbh</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tharubbh">tharubbh</a>
 </p>
 <br>
 <p align="center">
