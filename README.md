@@ -53,7 +53,7 @@
   </a>
 </p>
 <br>
-<h2 align="center">Movie Mystiq Bot Owners</h2>
+<h2 align="center">Movie Dl Bot Owners</h2>
 <br>
 <p align="center">
   <a href="https://github.com/tharubbh"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80 alt="Owner"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
