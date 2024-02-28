@@ -1,8 +1,8 @@
-<h1 align="center">THARU-MOVIE</h1>
-<h3 align="center">This Tharu Movie is a Whatsapp bot for download movies</h3>
+<h1 align="center">MIVIE-DL</h1>
+<h3 align="center">This Movie Dl is a Whatsapp bot for download movies</h3>
 <br>
 <p align="center">
-  <img src="https://telegra.ph/file/e8d11fde869fd077944dd.jpg" alt="Tharu Movie" height="300">
+  <img src="https://telegra.ph/file/8bba6d36e49147e461a6e.jpg" alt="Movie Dl" height="300">
 </p>
 
 <p align="center">  
@@ -10,14 +10,14 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSACHIBOT%2FMOVIE-MYSTIQ&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/SACHIBOT/MOVIE-MYSTIQ?label=Forks&style=social" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/SACHIBOT/MOVIE-MYSTIQ?style=social" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHARUBBH%2FMOVIE-DL&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/THARUBBH/MOVIE-DL?label=Forks&style=social" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/THARUBBH/MOVIE-DL?style=social" />
 </p>
 
 <p align="center">
   <a href="https://chat.whatsapp.com/EmrwXyEbA0LK58V1SMq3xC">
-    <img src="https://img.shields.io/badge/%20Join%20Our%20WhatsApp%20Channel%20-darkgreen" alt="Join Our WhatsApp Channel" width="300">
+    <img src="https://img.shields.io/badge/%20Join%20Our%20WhatsApp%20Group%20-darkgreen" alt="Join Our WhatsApp Group" width="300">
   </a>
 </p>
 <br>
@@ -33,14 +33,14 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SACHIBOT/MOVIE-MYSTIQ&branch=main&env[SESSION_ID]&env[ALWAYS_ONLINE]&env[MAX_SIZE]&env[ONLY_GROUP]&env[ONLY_ME]&env[ALIVE]&name=movie-mystiq
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SACHIBOT/MOVIE-MYSTIQ&branch=main&env[SESSION_ID]&env[ALWAYS_ONLINE]&env[MAX_SIZE]&env[ONLY_GROUP]&env[ONLY_ME]&env[ALIVE]&name=movie-dl
   ">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://railway.app/template/cvZzpl">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="200" height="40" >
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQ&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git">
+  <a href="https://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQhttps://dashboard.heroku.com/new?button-url=https://github.com/SACHIBOT/MOVIE-MYSTIQ&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git&template=https://github.com/SACHIBOT/MOVIE-MYSTIQ.git">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" width="200" height="40" >
   </a>
 </p>
