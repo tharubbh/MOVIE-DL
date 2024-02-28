@@ -1,8 +1,8 @@
 {
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name sachibot",
-"stop": "pm2 stop sachibot",
-"restart": "pm2 restart sachibot"
+"start": "pm2 start start.js --deep-monitoring --attach --name gayanthamoviedl",
+"stop": "pm2 stop gayathamoviedl",
+"restart": "pm2 restart gayanthamoviedl"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "6.6.0",
