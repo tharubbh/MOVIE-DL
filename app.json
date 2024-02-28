@@ -1,9 +1,9 @@
 
 {
     "name": "MOVIE-MYSTIQ (1.0.0)",
-    "description": "MOVIE-MYSTIQ has been designed to download movies using WhatsApp. 👨‍💻❤️",
+    "description": "MOVIE-DL has been designed to download movies using WhatsApp. 👨‍💻❤️",
     "logo": "https://telegra.ph/file/e8d11fde869fd077944dd.jpg",
-    "keywords": ["nodejs", "bot", "whatsapp bot", "movie-downloader", "multi device", "movie-mystiq"],
+    "keywords": ["nodejs", "bot", "whatsapp bot", "movie-downloader", "multi device", "movie-dl"],
     "success_url": "/",
   
     "env": {
