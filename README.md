@@ -53,18 +53,7 @@
   </a>
 </p>
 <br>
-<h2 align="center">Movie Dl Bot Owners</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/tharubbh"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80 alt="Owner"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tharubbh"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80 alt="Supporter"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/tharubbh">tharubbh</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tharubbh">tharubbh</a>
-</p>
-<br>
-<p align="center">
+
   Released date:- 2024.02.22
   <br>
   Latest updated date:- 2024.02.22
